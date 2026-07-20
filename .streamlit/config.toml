@@ -1,0 +1,10 @@
+# Streamlit Cloud config
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = false
+
+# Map theme
+[theme]
+base = "light"
+primaryColor = "#1565C0"

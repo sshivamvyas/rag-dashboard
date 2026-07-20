@@ -1,0 +1,14 @@
+{
+  "track": "track3_caching",
+  "cache_size": 20,
+  "total": 30,
+  "hits": 10,
+  "misses": 20,
+  "hit_rate": 0.3333333333333333,
+  "lat_hit_ms": 0.0015083000107551925,
+  "lat_miss_ms": 1935.9751740999855,
+  "faith_hit": 0.5900000000000001,
+  "faith_miss": 0.605,
+  "faith_delta": -0.014999999999999902,
+  "speedup_x": 1283547.8089870594
+}

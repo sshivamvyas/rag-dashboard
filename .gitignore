@@ -1,0 +1,6 @@
+# Sample results from the actual Kaggle T4 run
+# Used by Streamlit Cloud demo (no upload needed)
+__pycache__/
+*.pyc
+.DS_Store
+.env

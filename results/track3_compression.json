@@ -1,0 +1,48 @@
+{
+  "track": "track3_compression",
+  "results": [
+    {
+      "mode": "none",
+      "avg": {
+        "faithfulness": 0.645,
+        "precision": 0.9800000000000001,
+        "recall": 0.8300000000000001,
+        "relevance": 0.655,
+        "hit_rate@5": 0.65,
+        "latency": 1863.1028665499798,
+        "queries": 20,
+        "label": "none",
+        "avg_tok": 922.25
+      }
+    },
+    {
+      "mode": "extractive",
+      "avg": {
+        "faithfulness": 0.605,
+        "precision": 1.0,
+        "recall": 0.6399999999999999,
+        "relevance": 0.7,
+        "hit_rate@5": 0.65,
+        "latency": 1313.463697899988,
+        "queries": 20,
+        "label": "extractive",
+        "avg_tok": 187.5
+      }
+    },
+    {
+      "mode": "generative",
+      "avg": {
+        "faithfulness": 0.6900000000000001,
+        "precision": 0.9,
+        "recall": 0.8,
+        "relevance": 0.495,
+        "hit_rate@5": 0.65,
+        "latency": 1099.5742634000635,
+        "queries": 20,
+        "label": "generative",
+        "avg_tok": 82.6
+      }
+    }
+  ],
+  "best": "generative"
+}

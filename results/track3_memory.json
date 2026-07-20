@@ -1,0 +1,43 @@
+{
+  "track": "track3_memory",
+  "results": [
+    {
+      "name": "none",
+      "avg": {
+        "faithfulness": 0.6,
+        "precision": 1.0,
+        "recall": 0.8,
+        "relevance": 0.62,
+        "hit_rate@5": 0.2,
+        "latency": 2060.7443810000404,
+        "queries": 5
+      }
+    },
+    {
+      "name": "buffer",
+      "avg": {
+        "faithfulness": 0.6,
+        "precision": 1.0,
+        "recall": 0.8,
+        "relevance": 0.5,
+        "hit_rate@5": 0.2,
+        "latency": 3188.140752200343,
+        "queries": 5
+      }
+    },
+    {
+      "name": "summary",
+      "avg": {
+        "faithfulness": 0.6,
+        "precision": 1.0,
+        "recall": 0.8,
+        "relevance": 0.22000000000000003,
+        "hit_rate@5": 0.2,
+        "latency": 813.6594983996474,
+        "queries": 5
+      }
+    }
+  ],
+  "best": "none",
+  "conv_length": 5
+}

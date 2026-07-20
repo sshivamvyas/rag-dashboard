@@ -1,0 +1,857 @@
+{
+  "track": "track1_transform",
+  "results": {
+    "none": {
+      "avg": {
+        "faithfulness": 0.6333333333333333,
+        "precision": 1.0,
+        "recall": 0.8166666666666667,
+        "relevance": 0.7200000000000001,
+        "hit_rate@5": 0.9333333333333333,
+        "latency": 1829.4482282667107,
+        "queries": 30,
+        "label": "none"
+      },
+      "rows": [
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 0.5,
+          "relevance": 1.0,
+          "hit_rate@5": 1.0,
+          "qid": "maud_5130",
+          "latency": 10984.84720999977
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 1.0,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_3501",
+          "latency": 341.11761300027865
+        },
+        {
+          "faithfulness": 0.0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.6,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_1474",
+          "latency": 417.94323000021905
+        },
+        {
+          "faithfulness": 1.0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.5,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_3962",
+          "latency": 150.48121100016942
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.6,
+          "hit_rate@5": 1.0,
+          "qid": "contractnli_0902",
+          "latency": 547.2426020000967
+        },
+        {
+          "faithfulness": 1.0,
+          "precision": 1.0,
+          "recall": 0.5,
+          "relevance": 0.0,
+          "hit_rate@5": 1.0,
+          "qid": "maud_5444",
+          "latency": 1368.111809000311
+        },
+        {
+          "faithfulness": 1.0,
+          "precision": 1.0,
+          "recall": 0.5,
+          "relevance": 0.0,
+          "hit_rate@5": 1.0,
+          "qid": "maud_6618",
+          "latency": 1630.297304999658
+        },
+        {
+          "faithfulness": 1.0,
+          "precision": 1.0,
+          "recall": 0.5,
+          "relevance": 1.0,
+          "hit_rate@5": 1.0,
+          "qid": "maud_6388",
+          "latency": 1190.5010059999768
+        },
+        {
+          "faithfulness": 1.0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 1.0,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_4256",
+          "latency": 435.5956919998789
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.6,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_4267",
+          "latency": 119.94508499992662
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.6,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_3451",
+          "latency": 337.8313370003525
+        },
+        {
+          "faithfulness": 1.0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.5,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_1677",
+          "latency": 543.0316089996268
+        },
+        {
+          "faithfulness": 1.0,
+          "precision": 1.0,
+          "recall": 0.5,
+          "relevance": 1.0,
+          "hit_rate@5": 1.0,
+          "qid": "maud_5747",
+          "latency": 1332.2375570000986
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 0.5,
+          "relevance": 0.5,
+          "hit_rate@5": 1.0,
+          "qid": "maud_5930",
+          "latency": 328.11306800022066
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.5,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_2885",
+          "latency": 313.7372059995869
+        },
+        {
+          "faithfulness": 0.0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.8,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_1279",
+          "latency": 191.5348110001105
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 1.0,
+          "hit_rate@5": 1.0,
+          "qid": "contractnli_0735",
+          "latency": 384.68053999986296
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.8,
+          "hit_rate@5": 0.0,
+          "qid": "contractnli_0740",
+          "latency": 454.3194240000048
+        },
+        {
+          "faithfulness": 1.0,
+          "precision": 1.0,
+          "recall": 0.5,
+          "relevance": 1.0,
+          "hit_rate@5": 1.0,
+          "qid": "maud_5086",
+          "latency": 1601.5004770001724
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.8,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_3085",
+          "latency": 3172.4762740004735
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 1.0,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_2437",
+          "latency": 945.6895639996219
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 0.5,
+          "relevance": 0.0,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_3070",
+          "latency": 3189.0952169997036
+        },
+        {
+          "faithfulness": 0.0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.8,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_2922",
+          "latency": 201.25086900043243
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 1.0,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_3409",
+          "latency": 274.0157120006188
+        },
+        {
+          "faithfulness": 1.0,
+          "precision": 1.0,
+          "recall": 0.5,
+          "relevance": 1.0,
+          "hit_rate@5": 1.0,
+          "qid": "maud_6274",
+          "latency": 10643.773528000565
+        },
+        {
+          "faithfulness": 1.0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.8,
+          "hit_rate@5": 1.0,
+          "qid": "maud_5502",
+          "latency": 10256.897405999553
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.6,
+          "hit_rate@5": 0.0,
+          "qid": "contractnli_0459",
+          "latency": 503.60044599983667
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 0.5,
+          "relevance": 1.0,
+          "hit_rate@5": 1.0,
+          "qid": "maud_5139",
+          "latency": 1767.9794010000478
+        },
+        {
+          "faithfulness": 1.0,
+          "precision": 1.0,
+          "recall": 0.5,
+          "relevance": 0.8,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_4992",
+          "latency": 1028.738932000124
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.8,
+          "hit_rate@5": 1.0,
+          "qid": "privacy_qa_6840",
+          "latency": 226.86070700001437
+        }
+      ]
+    },
+    "HyDE": {
+      "avg": {
+        "faithfulness": 0.58,
+        "precision": 1.0,
+        "recall": 0.8333333333333334,
+        "relevance": 0.58,
+        "hit_rate@5": 0.9333333333333333,
+        "latency": 1440.8659824000097,
+        "queries": 30,
+        "label": "HyDE"
+      },
+      "rows": [
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 0.5,
+          "relevance": 1.0,
+          "hit_rate@5": 1.0,
+          "qid": "maud_5130",
+          "latency": 11008.032058000026
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 1.0,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_3501",
+          "latency": 344.2365030005021
+        },
+        {
+          "faithfulness": 0.0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.6,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_1474",
+          "latency": 422.02830400037783
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.5,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_3962",
+          "latency": 213.21390599950973
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.6,
+          "hit_rate@5": 1.0,
+          "qid": "contractnli_0902",
+          "latency": 546.2416419995861
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 0.5,
+          "relevance": 0.0,
+          "hit_rate@5": 1.0,
+          "qid": "maud_5444",
+          "latency": 1265.3600630001165
+        },
+        {
+          "faithfulness": 1.0,
+          "precision": 1.0,
+          "recall": 0.5,
+          "relevance": 0.0,
+          "hit_rate@5": 1.0,
+          "qid": "maud_6618",
+          "latency": 1099.3863429994235
+        },
+        {
+          "faithfulness": 1.0,
+          "precision": 1.0,
+          "recall": 0.5,
+          "relevance": 0.0,
+          "hit_rate@5": 1.0,
+          "qid": "maud_6388",
+          "latency": 633.5844240002189
+        },
+        {
+          "faithfulness": 1.0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 1.0,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_4256",
+          "latency": 401.0793729994475
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.6,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_4267",
+          "latency": 118.9095380004801
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.6,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_3451",
+          "latency": 334.9933849995068
+        },
+        {
+          "faithfulness": 1.0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.5,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_1677",
+          "latency": 547.1690280000985
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.0,
+          "hit_rate@5": 1.0,
+          "qid": "maud_5747",
+          "latency": 1257.8146119994926
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 0.5,
+          "relevance": 0.5,
+          "hit_rate@5": 1.0,
+          "qid": "maud_5930",
+          "latency": 414.04374400008237
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.5,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_2885",
+          "latency": 312.9800860006071
+        },
+        {
+          "faithfulness": 0.0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.8,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_1279",
+          "latency": 198.6383260000366
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 1.0,
+          "hit_rate@5": 1.0,
+          "qid": "contractnli_0735",
+          "latency": 367.6538520003305
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.8,
+          "hit_rate@5": 0.0,
+          "qid": "contractnli_0740",
+          "latency": 445.6452080003146
+        },
+        {
+          "faithfulness": 0.4,
+          "precision": 1.0,
+          "recall": 0.5,
+          "relevance": 0.0,
+          "hit_rate@5": 1.0,
+          "qid": "maud_5086",
+          "latency": 1325.36210499984
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.8,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_3085",
+          "latency": 3172.968039000807
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.6,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_2437",
+          "latency": 673.4912299998541
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 0.5,
+          "relevance": 0.0,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_3070",
+          "latency": 3221.593379999831
+        },
+        {
+          "faithfulness": 0.0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.8,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_2922",
+          "latency": 201.04527100011182
+        },
+        {
+          "faithfulness": 1.0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 1.0,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_3409",
+          "latency": 296.2192690001757
+        },
+        {
+          "faithfulness": 1.0,
+          "precision": 1.0,
+          "recall": 0.5,
+          "relevance": 0.6,
+          "hit_rate@5": 1.0,
+          "qid": "maud_6274",
+          "latency": 1665.2223850005612
+        },
+        {
+          "faithfulness": 1.0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.8,
+          "hit_rate@5": 1.0,
+          "qid": "maud_5502",
+          "latency": 10112.298098999418
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.6,
+          "hit_rate@5": 0.0,
+          "qid": "contractnli_0459",
+          "latency": 503.51525699988997
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 0.5,
+          "relevance": 0.6,
+          "hit_rate@5": 1.0,
+          "qid": "maud_5139",
+          "latency": 889.1439549997813
+        },
+        {
+          "faithfulness": 1.0,
+          "precision": 1.0,
+          "recall": 0.5,
+          "relevance": 0.8,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_4992",
+          "latency": 1013.4533469999951
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.8,
+          "hit_rate@5": 1.0,
+          "qid": "privacy_qa_6840",
+          "latency": 220.65673999986757
+        }
+      ]
+    },
+    "multi-query": {
+      "avg": {
+        "faithfulness": 0.6333333333333333,
+        "precision": 1.0,
+        "recall": 0.8166666666666667,
+        "relevance": 0.7200000000000001,
+        "hit_rate@5": 0.9333333333333333,
+        "latency": 1828.1758538334543,
+        "queries": 30,
+        "label": "multi-query"
+      },
+      "rows": [
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 0.5,
+          "relevance": 1.0,
+          "hit_rate@5": 1.0,
+          "qid": "maud_5130",
+          "latency": 10971.882646000267
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 1.0,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_3501",
+          "latency": 347.1841829996265
+        },
+        {
+          "faithfulness": 0.0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.6,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_1474",
+          "latency": 420.9019320005609
+        },
+        {
+          "faithfulness": 1.0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.5,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_3962",
+          "latency": 156.50345100038976
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.6,
+          "hit_rate@5": 1.0,
+          "qid": "contractnli_0902",
+          "latency": 552.2305150007014
+        },
+        {
+          "faithfulness": 1.0,
+          "precision": 1.0,
+          "recall": 0.5,
+          "relevance": 0.0,
+          "hit_rate@5": 1.0,
+          "qid": "maud_5444",
+          "latency": 1345.6446669997604
+        },
+        {
+          "faithfulness": 1.0,
+          "precision": 1.0,
+          "recall": 0.5,
+          "relevance": 0.0,
+          "hit_rate@5": 1.0,
+          "qid": "maud_6618",
+          "latency": 1648.4988410002188
+        },
+        {
+          "faithfulness": 1.0,
+          "precision": 1.0,
+          "recall": 0.5,
+          "relevance": 1.0,
+          "hit_rate@5": 1.0,
+          "qid": "maud_6388",
+          "latency": 1205.3655240006265
+        },
+        {
+          "faithfulness": 1.0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 1.0,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_4256",
+          "latency": 433.6009889993875
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.6,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_4267",
+          "latency": 122.86218500048562
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.6,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_3451",
+          "latency": 335.95938599955844
+        },
+        {
+          "faithfulness": 1.0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.5,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_1677",
+          "latency": 550.0316919997204
+        },
+        {
+          "faithfulness": 1.0,
+          "precision": 1.0,
+          "recall": 0.5,
+          "relevance": 1.0,
+          "hit_rate@5": 1.0,
+          "qid": "maud_5747",
+          "latency": 1327.0839460001298
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 0.5,
+          "relevance": 0.5,
+          "hit_rate@5": 1.0,
+          "qid": "maud_5930",
+          "latency": 338.23518799999874
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.5,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_2885",
+          "latency": 315.00790399968537
+        },
+        {
+          "faithfulness": 0.0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.8,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_1279",
+          "latency": 185.08536399986042
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 1.0,
+          "hit_rate@5": 1.0,
+          "qid": "contractnli_0735",
+          "latency": 370.3540090000388
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.8,
+          "hit_rate@5": 0.0,
+          "qid": "contractnli_0740",
+          "latency": 445.50665600036155
+        },
+        {
+          "faithfulness": 1.0,
+          "precision": 1.0,
+          "recall": 0.5,
+          "relevance": 1.0,
+          "hit_rate@5": 1.0,
+          "qid": "maud_5086",
+          "latency": 1586.0258650000105
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.8,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_3085",
+          "latency": 3138.5233470000458
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 1.0,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_2437",
+          "latency": 910.9881660006067
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 0.5,
+          "relevance": 0.0,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_3070",
+          "latency": 3189.671639000153
+        },
+        {
+          "faithfulness": 0.0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.8,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_2922",
+          "latency": 201.9028069998967
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 1.0,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_3409",
+          "latency": 272.17135399951076
+        },
+        {
+          "faithfulness": 1.0,
+          "precision": 1.0,
+          "recall": 0.5,
+          "relevance": 1.0,
+          "hit_rate@5": 1.0,
+          "qid": "maud_6274",
+          "latency": 10672.032338000463
+        },
+        {
+          "faithfulness": 1.0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.8,
+          "hit_rate@5": 1.0,
+          "qid": "maud_5502",
+          "latency": 10273.305012000492
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.6,
+          "hit_rate@5": 0.0,
+          "qid": "contractnli_0459",
+          "latency": 502.02445200011425
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 0.5,
+          "relevance": 1.0,
+          "hit_rate@5": 1.0,
+          "qid": "maud_5139",
+          "latency": 1785.061073000179
+        },
+        {
+          "faithfulness": 1.0,
+          "precision": 1.0,
+          "recall": 0.5,
+          "relevance": 0.8,
+          "hit_rate@5": 1.0,
+          "qid": "cuad_4992",
+          "latency": 1014.9117640003169
+        },
+        {
+          "faithfulness": 0.5,
+          "precision": 1.0,
+          "recall": 1.0,
+          "relevance": 0.8,
+          "hit_rate@5": 1.0,
+          "qid": "privacy_qa_6840",
+          "latency": 226.71872000046278
+        }
+      ]
+    }
+  }
+}

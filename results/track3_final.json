@@ -1,0 +1,14 @@
+{
+  "track": "track3_final",
+  "overall": {
+    "faithfulness": 0.7266666666666667,
+    "precision": 0.9333333333333333,
+    "recall": 0.8033333333333333,
+    "relevance": 0.4666666666666667,
+    "hit_rate@5": 0.6666666666666666,
+    "latency": 1144.7423359666573
+  },
+  "best_prompt": "structured",
+  "best_compression": "generative",
+  "best_memory": "none"
+}

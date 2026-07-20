@@ -1,0 +1,35 @@
+{
+  "track": "track1_retrieval",
+  "results": {
+    "dense": {
+      "faithfulness": 0.6166666666666667,
+      "precision": 0.9866666666666667,
+      "recall": 0.8033333333333333,
+      "relevance": 0.7333333333333333,
+      "hit_rate@5": 0.6666666666666666,
+      "latency": 1683.809152899994,
+      "queries": 30,
+      "label": "dense"
+    },
+    "keyword": {
+      "faithfulness": 0.6033333333333334,
+      "precision": 0.9038888888888889,
+      "recall": 0.8833333333333333,
+      "relevance": 0.7133333333333333,
+      "hit_rate@5": 0.9333333333333333,
+      "latency": 1293.0536828333363,
+      "queries": 30,
+      "label": "keyword"
+    },
+    "hybrid": {
+      "faithfulness": 0.6133333333333333,
+      "precision": 0.9422222222222222,
+      "recall": 0.85,
+      "relevance": 0.67,
+      "hit_rate@5": 0.9666666666666667,
+      "latency": 982.4595494666331,
+      "queries": 30,
+      "label": "hybrid"
+    }
+  }
+}
